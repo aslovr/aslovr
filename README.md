@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning *Java,Selenium,SDLC,Jira,Git-Github,HTML,SQL-JDBC*
 
-- 📝 I regularly write articles about football,politics,daily news and memes on [www.twitter.com/mhmtdrgn_](www.twitter.com/mhmtdrgn_)
-
 - 📫 How to reach me : *aslover1991@gmail.com | https://www.linkedin.com/in/asli-over/***
 
 - ⚡ Fun facts; *I love coding 💻 ,  music 🎶*
